@@ -1,0 +1,41 @@
+.mainIndex{
+    background: #F5F5F5;
+    height: 80ex; 
+    display: flex; 
+    flex-direction: column;  
+    justify-content: center;   
+}
+
+.mainSobreMim, .mainSkills{
+    background: #F5F5F5;
+    display: flex; 
+    flex-direction: column;  
+}
+
+
+.fotoEOla{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 2rem 5rem;
+    width: 100%;
+}
+
+.fotoLuciana{
+    width: 23rem;
+    border-radius: calc(23rem/2);
+}
+
+.ola{
+    font-weight: 700;
+    line-height: 50px;
+    color: #464646;
+    font-family: 'Raleway';
+}
+
+.subtitulo{
+    font-size: 22px;
+    line-height: 26px;
+    color: #464646;
+    font-weight: 400;
+}
